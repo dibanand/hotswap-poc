@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HotSwap POC</string>
+    <string name="load_lib1">Load lib1</string>
+    <string name="load_lib2">Load lib2</string>
+    <string name="initial_text">Initial text</string>
+    <string name="asset_storage"><![CDATA[Asset -> Storage]]></string>
+</resources>
